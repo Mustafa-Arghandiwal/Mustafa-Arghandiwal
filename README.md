@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">I love coding</h3>
 
-- 🔭 I’m currently working on **Currency Exchange Scripts**
+- 🔭 I’m currently working on some **budget tracking app**
 
-- 🌱 I’m currently learning **NodeJS & Scripting**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Python**
 
